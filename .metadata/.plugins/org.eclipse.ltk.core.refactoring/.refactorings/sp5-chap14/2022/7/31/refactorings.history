@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;formatDateTime.tag&apos; to &apos;tags&apos;&#x0D;&#x0A;- Original project: &apos;sp5-chap14&apos;&#x0D;&#x0A;- Destination element: &apos;tags&apos;&#x0D;&#x0A;- Original element: &apos;formatDateTime.tag&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" element1="src/main/webapp/WEB-INF/formatDateTime.tag" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1659178367202" target="src/main/webapp/WEB-INF/tags" units="0" version="1.0"/>
+</session>

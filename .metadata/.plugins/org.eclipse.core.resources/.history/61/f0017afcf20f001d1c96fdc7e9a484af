@@ -1,0 +1,13 @@
+package controller;
+
+import java.time.LocalDateTime;
+
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
+public class ListCommand {
+
+	private LocalDateTime from;
+	private LocalDateTime to;
+	
+}

@@ -1,0 +1,17 @@
+package spring;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.RequiredArgsConstructor;
+
+@Getter
+@AllArgsConstructor
+@RequiredArgsConstructor
+public class AuthInfo {
+	
+	
+	private Long id;
+	private String email;
+	private String name;
+	
+}

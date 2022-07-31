@@ -1,0 +1,16 @@
+package config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import spring.RegisterRequest;
+
+@Configuration
+public class ControllerConfig {
+	
+	@Bean
+	public RegisterRequest registerRequest() {
+		return new RegisterRequest();
+	}
+
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:sp5-chap12" serverId="sssss"/>
+  <module moduleId="org.eclipse.jst.jee.server:sp5-chap11" serverId="temp server"/>
+  <module moduleId="org.eclipse.jst.jee.server:sp5-chap13" serverId="sp5-chap13"/>
+</modules>

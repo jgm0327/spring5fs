@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="sp5-chap02"/>
+<aop-project name="sp5-chap08"/>
+<aop-project name="sp5-chap09"/>
+<aop-project name="sp5-chap11"/>
+</aop-reference-model>

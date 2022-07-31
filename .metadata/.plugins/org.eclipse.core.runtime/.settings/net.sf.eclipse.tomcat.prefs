@@ -1,0 +1,7 @@
+contextsDir=C\:\\Users\\jgm03\\OneDrive\\Desktop\\apache-tomcat-9.0.65\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+managerUrl=http\://localhost\:8080/manager
+projectsInSourcePath=sp5-chap02;sp5-chap03;sp5-chap04;sp5-chap05;sp5-chap06;sp5-chap07;sp5-chap08;sp5-chap09;sp5-chap11;sp5-chap11-2;
+tomcatConfigFile=C\:\\Users\\jgm03\\OneDrive\\Desktop\\apache-tomcat-9.0.65\\conf\\server.xml
+tomcatDir=C\:\\Users\\jgm03\\OneDrive\\Desktop\\apache-tomcat-9.0.65
+tomcatVersion=tomcatV9
